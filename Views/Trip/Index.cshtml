@@ -1,0 +1,24 @@
+﻿<h1>@ViewBag.Title</h1> 
+
+@if (ViewBag.destinations.count == 0)
+{ 
+    <p>No destinations yet!</p>
+}
+
+<table class="table">
+
+    <tr>
+        <th>Name</th>
+        
+    </tr>
+
+    @foreach (var destination in ViewBag.destinations) 
+    { 
+        <tr>
+            <td>@destination.Name</td>
+            
+        </tr>
+    }
+</table>
+
+<p>a asp-controller="Destination" asp-action="Add"><a>Add Destination</a></p>
