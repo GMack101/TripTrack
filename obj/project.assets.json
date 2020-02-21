@@ -7285,11 +7285,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "D:\\LCStudent\\Capstone\\TripTrack\\TripTrack.csproj",
       "projectName": "TripTrack",
       "projectPath": "D:\\LCStudent\\Capstone\\TripTrack\\TripTrack.csproj",
       "packagesPath": "C:\\Users\\LCStudent\\.nuget\\packages\\",
       "outputPath": "D:\\LCStudent\\Capstone\\TripTrack\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\LCStudent\\Capstone\\TripTrack\\TripTrack.csproj",
+      "projectName": "TripTrack",
+      "projectPath": "C:\\Users\\LCStudent\\Capstone\\TripTrack\\TripTrack.csproj",
+      "packagesPath": "C:\\Users\\LCStudent\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\LCStudent\\Capstone\\TripTrack\\obj\\",
+>>>>>>> master
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LCStudent\\AppData\\Roaming\\NuGet\\NuGet.Config",

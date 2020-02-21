@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace TripTrack.Controllers
 {
-   // public class CodeCategoryController
-    
-    
+    public class CodeCategoryController
+    {
+    }
 }

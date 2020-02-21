@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "D:\\LCStudent\\Capstone\\TripTrack\\TripTrack.csproj": {}
   },
   "projects": {
@@ -15,6 +16,22 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tuca1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+    "C:\\Users\\LCStudent\\Capstone\\TripTrack\\TripTrack.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\LCStudent\\Capstone\\TripTrack\\TripTrack.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\LCStudent\\Capstone\\TripTrack\\TripTrack.csproj",
+        "projectName": "TripTrack",
+        "projectPath": "C:\\Users\\LCStudent\\Capstone\\TripTrack\\TripTrack.csproj",
+        "packagesPath": "C:\\Users\\LCStudent\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LCStudent\\Capstone\\TripTrack\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\LCStudent\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> master
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -81,7 +98,11 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+>>>>>>> master
         }
       }
     }

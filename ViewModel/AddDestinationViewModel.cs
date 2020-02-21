@@ -28,9 +28,12 @@ namespace TripTrack.ViewModel
         [Display(Name = "RentaCar")]
         public string RentaCar { get; set; }
 
+<<<<<<< HEAD
         [Display(Name = "Code")]
         public string Code { get; set; }
 
+=======
+>>>>>>> master
 
 
 

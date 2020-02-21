@@ -69,6 +69,7 @@ C:\Users\LCStudent\Capstone\TripTrack\bin\Debug\netcoreapp3.1\Microsoft.EntityFr
 C:\Users\LCStudent\Capstone\TripTrack\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
 C:\Users\LCStudent\Capstone\TripTrack\obj\Debug\netcoreapp3.1\TripTrack.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\LCStudent\Capstone\TripTrack\obj\Debug\netcoreapp3.1\TripTrack.MvcApplicationPartsAssemblyInfo.cache
+<<<<<<< HEAD
 D:\LCStudent\Capstone\TripTrack\bin\Debug\netcoreapp3.1\appsettings.Development.json
 D:\LCStudent\Capstone\TripTrack\bin\Debug\netcoreapp3.1\appsettings.json
 D:\LCStudent\Capstone\TripTrack\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
@@ -140,3 +141,5 @@ D:\LCStudent\Capstone\TripTrack\obj\Debug\netcoreapp3.1\TripTrack.csproj.CopyCom
 D:\LCStudent\Capstone\TripTrack\obj\Debug\netcoreapp3.1\TripTrack.dll
 D:\LCStudent\Capstone\TripTrack\obj\Debug\netcoreapp3.1\TripTrack.pdb
 D:\LCStudent\Capstone\TripTrack\obj\Debug\netcoreapp3.1\TripTrack.MvcApplicationPartsAssemblyInfo.cs
+=======
+>>>>>>> master
