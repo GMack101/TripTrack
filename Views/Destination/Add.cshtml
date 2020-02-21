@@ -1,0 +1,58 @@
+﻿@model TripTrack.ViewModel.AddDestinationViewModel
+
+
+<h1>Add Destination</h1>
+
+<form asp-controller="Destination" asp-action="Add" method="post">
+
+    <div asp-validation-summary="All"></div>
+
+
+
+    <div class="form-group">
+        <label asp-for="Trip "></label>
+        <input class="form-control" asp-for="Trip" />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Date">Date</label>
+        <input class="form-control" asp-for="Date" />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Location">Location</label>
+        <input class="form-control" asp-for="Location" />
+    </div>
+
+
+
+
+    <div class="form-group">
+        <label asp-for="Airline"></label>
+        <input class="form-control" asp-for="Airline" />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Hotel"></label>
+        <input class="form-control" asp-for="Hotel" />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="RentaCar"></label>
+        <input class="form-control" asp-for="RentaCar" />
+    </div>
+
+   
+
+
+
+
+    <input type="submit" value="submit" />
+
+
+</form>
+
+
+    
+
+
