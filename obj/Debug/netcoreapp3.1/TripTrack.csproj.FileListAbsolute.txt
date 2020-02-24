@@ -143,3 +143,5 @@ D:\LCStudent\Capstone\TripTrack\obj\Debug\netcoreapp3.1\TripTrack.pdb
 D:\LCStudent\Capstone\TripTrack\obj\Debug\netcoreapp3.1\TripTrack.MvcApplicationPartsAssemblyInfo.cs
 =======
 >>>>>>> master
+C:\Users\LCStudent\Desktop\TripTrack\obj\Debug\netcoreapp3.1\TripTrack.dll
+C:\Users\LCStudent\Desktop\TripTrack\obj\Debug\netcoreapp3.1\TripTrack.pdb
